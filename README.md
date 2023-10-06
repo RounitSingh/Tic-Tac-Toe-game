@@ -11,3 +11,8 @@ https://singular-seahorse-e0d2c5.netlify.app
   <li>The first player to get 3 of her marks in a row ,up, down, across, or diagonally is the winner</li>
   <li>By clicking on Play Again button you can reset the game </li>
 </ol>
+Video Link:
+
+https://github.com/RounitSingh/Tic-Tac-Toe-game/assets/117521913/714dbba5-f025-469b-93cc-682abb13c660
+
+
