@@ -1,0 +1,23 @@
+.board {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px;
+    cursor: pointer;
+    position: relative;
+  }
+  
+  .right-border {
+    border-right: 0.2em solid #0074a6;
+    border-radius:0.6em ;
+  }
+  
+  .bottom-border {
+    border-bottom: 0.2em solid #0074a6;
+  }
+  .left-border{
+    border-left: 0.2em solid #0074a6;
+  }
+  .top-border{
+    border-top: 0.2em solid #0074a6;
+  }
+  
